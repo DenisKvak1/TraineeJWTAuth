@@ -1,0 +1,6 @@
+@TraineeJWTAuth.Server_HostAddress = http://localhost:5114
+
+GET {{TraineeJWTAuth.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
