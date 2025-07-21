@@ -1,0 +1,35 @@
+version: '2'
+
+services:
+    mariadb: 
+        image: mariadb:11.6
+        ports: 
+            - 3306:3306
+        volumes: 
+            - ./MariaDb:/var/lib/mysql
+        environment: 
+            MYSQL_ROOT_PASSWORD: GdczsdDd2
+
+    webapi: 
+        build: 
+            context: ./Server
+            dockerfile: WebApi/Dockerfile
+        ports: 
+            - 8080:8080
+        depends_on:
+            - mariadb
+
+    server: 
+        build: 
+            context: ./Client
+            dockerfile: Dockerfile
+        volumes: 
+            - ./Nginx/nginx.conf:/etc/nginx/nginx.conf
+        ports: 
+            - 8081:8080
+            - 8082:8081       
+        depends_on: 
+            - webapi
+
+
+

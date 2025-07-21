@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8ee9ff8-a8f5-4ca8-bcf3-09fc751ec52b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/TraineeJWTAuth.Client.esproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/aspnetcore-https.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/openapitools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/not-found/not-found.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/not-found/not-found.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/not-found/not-found.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/not-found/not-found.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/privacy/privacy.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/privacy/privacy.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/privacy/privacy.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/app/privacy/privacy.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/auth-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/auth.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/auth.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/authInterceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/isAuth.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/models/LoginForm.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/models/RegisterForm.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/register/register.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/register/register.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/register/register.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/register/register.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/responces/LoginResponse.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/responces/RefreshTokenResponce.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/auth/responces/RegisterResponce.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/common/ServerResponse.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/proxy.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Client/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Config/ConfigureAuthentication.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Config/ConfigureAuthorization.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Config/ConfigureDatabase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Config/ConfigureIdentity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Controllers/AccountController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Data/AppDbContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Filters/ResponseFilter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/AppRoleManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/AppSignInManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/AppUserManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/BackgroundServices/RefreshTokenCleanupService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Context/TokenIdentityContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Interfaces/TokenService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Models/AppRole.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Models/AppUser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Models/RefreshToken.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Requests/LoginRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Requests/RegisterRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Responses/LoginResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Responses/RefreshResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Responses/RegisterResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Services/JwtDbService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Identity/Services/JwtService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Migrations/20250710153758_Initial.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Migrations/20250710153758_Initial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Migrations/20250710193056_Rename User Field.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Migrations/20250710193056_Rename User Field.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Migrations/20250711124622_Add Db Refresh Token.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Migrations/20250711124622_Add Db Refresh Token.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Migrations/AppDbContextModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/Responces/ApiResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/TraineeJWTAuth.Server.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.Server/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TraineeJWTAuth.sln" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DenisKvak1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DenisKvak1/TraineeJWTAuth.git",
+    "accountId": "05200a44-5987-45a1-848b-6264353cddd1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="308q1qN5UMFZNVsWbvi9iIajqxs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/PROJECTS/backEnd/TraineeJWTAuth/Server",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "AtomSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8ee9ff8-a8f5-4ca8-bcf3-09fc751ec52b" name="Changes" comment="" />
+      <created>1753019336839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753019336839</updated>
+      <workItem from="1753019339089" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
